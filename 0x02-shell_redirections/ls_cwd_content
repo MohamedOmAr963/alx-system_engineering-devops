@@ -1,0 +1,26 @@
+total 156
+drwxr-xr-x 2 root root  4096 Jul 10 18:00 .
+drwxr-xr-x 4 root root    66 Jul 10 16:27 ..
+-rwxr--r-- 1 root root    33 Jul 10 15:20 0-hello_world
+-rw-r--r-- 1 root root 12288 Jul 10 15:15 .0-hello_world.swi
+-rw-r--r-- 1 root root  4096 Jul 10 13:48 .0-hello_world.swj
+-rw-r--r-- 1 root root 12288 Jul 10 13:34 .0-hello_world.swk
+-rw-r--r-- 1 root root 12288 Jul 10 13:32 .0-hello_world.swl
+-rw-r--r-- 1 root root 12288 Jul 10 13:30 .0-hello_world.swm
+-rw-r--r-- 1 root root 12288 Jul 10 13:25 .0-hello_world.swn
+-rw------- 1 root root 12288 Jul 10 13:18 .0-hello_world.swo
+-rw------- 1 root root 12288 Jul 10 13:14 .0-hello_world.swp
+-rwxr--r-- 1 root root    28 Jul 10 13:52 1-confused_smiley
+-rwxr--r-- 1 root root    28 Jul 10 14:17 2-hellofile
+-rwxr--r-- 1 root root    39 Jul 10 14:26 3-twofiles
+-rwxr--r-- 1 root root    29 Jul 10 14:33 4-lastlines
+-rwxr--r-- 1 root root    30 Jul 10 14:41 5-firstlines
+-rwxr--r-- 1 root root    40 Jul 10 15:40 6-third_line
+-rw-r--r-- 1 root root 12288 Jul 10 15:43 .6-third_line.swp
+-rwxr--r-- 1 root root    96 Jul 10 17:38 7-file
+-rwxr--r-- 1 root root    35 Jul 10 18:00 8-cwd_state
+-rw-r--r-- 1 root root    12 Jul 10 17:39 \*\\\"Best School\"\\\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   745 Jul 10 15:42 iacta
+-rw-r--r-- 1 root root     0 Jul 10 18:00 ls_cwd_content
+-rw-r--r-- 1 root root   116 Jul 10 17:19 output
+-rw-r--r-- 1 root root    42 Jul 10 12:21 README.md
